@@ -53,7 +53,7 @@ RGB image or video
 
 Facemoji Kit includes all the 3D accessories, models, textures, and shading assets to render Facemoji avatars in your app for your users. There are over 1,000 items, including hair styles, hats, sunglasses, face masks, animated accessories or even face tattoos.
 
-![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1585061692133_assets.png)
+![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1585072985653_video.png)
 
 # Examples
 
