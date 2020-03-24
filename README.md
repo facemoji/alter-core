@@ -13,7 +13,8 @@ RGB Input → NN → Blend shapes weights and pose → Avatar modelling and rend
 ## Key features
 
 - Scalable facial tracking
-    - A trade-off between accuracy and speed
+    - A configurable trade-off between accuracy and speed
+		- e.g. low-fidelity 2D vs. high-fidelity 3D avatars
 - `1-2MB` ML model size
 - 3D reprojection to the input photo/video
 - Supported platforms
@@ -52,15 +53,15 @@ RGB image or video
 
 Facemoji Kit includes all the 3D accessories, models, textures, and shading assets to render Facemoji avatars in your app for your users. There are over 1,000 items, including hair styles, hats, sunglasses, face masks, animated accessories or even face tattoos.
 
-[img]
+![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1585061692133_assets.png)
 
 # Examples
 
 - [Facemoji](https://apps.apple.com/app/id1418685721), our flagship app using the Kit :)
 - [Facemoji for Mac](http://facemoji.co/formac/), bring your Facemoji to Zoom
-- [Squad](https://apps.apple.com/app/apple-store/id1398048313), video chat, watch videos and screen share
+- [Squad](https://apps.apple.com/app/apple-store/id1398048313), video chat and screen share with friends
 - [One Word](https://apps.apple.com/us/app/one-word/id1482946490), a word game for friends
 
 # Demo and download
 
-Get the TestFlight demo app try one of the examples above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
+Get ~~TestFlight demo app~~ or try one of the examples above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
