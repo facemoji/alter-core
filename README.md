@@ -64,4 +64,4 @@ Facemoji Kit includes all the 3D accessories, models, textures, and shading asse
 
 # Demo and download
 
-Get ~~TestFlight demo app~~ or try one of the examples above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
+Get [TestFlight demo app](https://testflight.apple.com/join/LPgogCTf) or try one of the examples above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
