@@ -52,6 +52,7 @@ RGB image or video
 - [Facemoji for Mac](http://facemoji.co/formac/), bring your Facemoji to Zoom
 - [Squad](https://apps.apple.com/app/apple-store/id1398048313), video chat and screen share with friends
 - [One Word](https://apps.apple.com/us/app/one-word/id1482946490), a word game for friends
+- **New:** [Trivia Royale](https://apps.apple.com/us/app/trivia-royale/id1506822846), #1 trivia game in the world
 # Demo and download
 
 Get the [TestFlight demo app](https://testflight.apple.com/join/LPgogCTf) or try one of the apps above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
