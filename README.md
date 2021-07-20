@@ -55,7 +55,7 @@ RGB image or video
 - **New:** [Trivia Royale](https://apps.apple.com/us/app/trivia-royale/id1506822846), #1 trivia game in the world
 # Demo and download
 
-Get the [TestFlight demo app](https://testflight.apple.com/join/LPgogCTf) or try one of the apps above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to reach out to us [directly via email](mailto:robin@facemoji.co?subject=[GitHub]%20Facemoji%20Kit) or [join our chat room on Gitter](https://gitter.im/facemoji-kit/community).
+Get the [TestFlight demo app](https://testflight.apple.com/join/LPgogCTf) or try one of the apps above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to [join our Discord](http://discord.com/invite/t2nFk8WuBC).
 
 # 3D Content
 
