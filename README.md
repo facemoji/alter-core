@@ -49,10 +49,10 @@ RGB image or video
 - `120 FPS` on iPhone X or newer
 # Examples
 - [Facemoji](https://apps.apple.com/app/id1418685721), our flagship app using the Kit :)
-- [Facemoji for Mac](http://facemoji.co/formac/), bring your Facemoji to Zoom
-- [Squad](https://apps.apple.com/app/apple-store/id1398048313), video chat and screen share with friends
-- [One Word](https://apps.apple.com/us/app/one-word/id1482946490), a word game for friends
-- **New:** [Trivia Royale](https://apps.apple.com/us/app/trivia-royale/id1506822846), #1 trivia game in the world
+- [Gamebytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690), games for iMessage
+- [Takeoff](https://apps.apple.com/us/app/takeoff-live-learning-games/id1537453168), live learning gameshows
+- [REALITY](https://apps.apple.com/us/app/reality/id1404176564?l=en&ls=1), avatar live streaming
+- [Airtime](https://apps.apple.com/us/app/airtime-watch-together/id1018368216), video chat rooms
 # Demo and download
 
 Get the [TestFlight demo app](https://testflight.apple.com/join/LPgogCTf) or try one of the apps above. If you’re interested in licensing Facemoji Kit, have a question and want to chat, feel free to [join our Discord](http://discord.com/invite/t2nFk8WuBC).
@@ -72,8 +72,6 @@ Optional mode with no Facemoji and only 3D accessories with **occluders**.
 
 ## Diversity
 ![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1586454961806_20_04_02.png)
-
-
 
 | ![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1586455576325_01.png) | ![](https://paper-attachments.dropbox.com/s_C7BFD236070C71F9A3782B4A76576B1DBC5B0EBD4DDCD3EBD784C3F53FE76DED_1586455576410_02.png) |
 | ---------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
