@@ -51,7 +51,7 @@ RGB image or video
 - [Facemoji](https://apps.apple.com/app/id1418685721), our flagship app using the Kit :)
 - [Gamebytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690), games for iMessage
 - [Takeoff](https://apps.apple.com/us/app/takeoff-live-learning-games/id1537453168), live learning gameshows
-- [REALITY](https://apps.apple.com/us/app/reality/id1404176564?l=en&ls=1), avatar live streaming
+- [REALITY](https://reality.app/), avatar live streaming
 - [Airtime](https://apps.apple.com/us/app/airtime-watch-together/id1018368216), video chat rooms
 # Demo and download
 
