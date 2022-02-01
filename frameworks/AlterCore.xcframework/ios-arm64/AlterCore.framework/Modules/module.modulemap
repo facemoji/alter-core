@@ -1,0 +1,4 @@
+framework module AlterCore {
+  header "AlterCore-Swift.h"
+  requires objc
+}

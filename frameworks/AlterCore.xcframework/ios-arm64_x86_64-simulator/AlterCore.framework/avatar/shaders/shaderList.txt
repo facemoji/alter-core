@@ -1,0 +1,10 @@
+facemoji/shaderLib/blendingFunctions.metal
+facemoji/shaderLib/blendingFunctionsHalf.metal
+facemoji/shaderLib/quaternion.metal
+facemoji/shaderLib/random.metal
+
+avatar/shaders/blendshapesBones.metal
+avatar/shaders/const.metal
+avatar/shaders/PBRish.metal
+avatar/shaders/quad.metal
+avatar/shaders/textureBlender.metal

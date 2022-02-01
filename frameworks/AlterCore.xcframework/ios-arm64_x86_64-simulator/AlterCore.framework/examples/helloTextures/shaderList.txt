@@ -1,0 +1,4 @@
+examples/helloTextures/quad.metal
+examples/helloTextures/texture.metal
+examples/helloTextures/textureArray.metal
+examples/helloTextures/textureCube.metal
