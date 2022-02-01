@@ -1,0 +1,46 @@
+{
+    "name": "js-example",
+    "version": "0.0.1",
+    "description": "alter-core JS example app",
+    "main": "index.js",
+    "author": "Alter",
+    "license": "ISC",
+    "keywords": [
+        "avatar",
+        "metaverse",
+        "animated characters",
+        "3d",
+        "machine-learning",
+        "face-tracking",
+        "facetracker",
+        "facial-landmarks",
+        "blendshapes",
+        "computer-vision"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/facemoji/alter-core"
+    },
+    "bugs": {
+        "url": "https://github.com/facemoji/alter-core/issues"
+    },
+    "homepage": "https://alter.xyz/",
+    "scripts": {
+        "dev": "webpack serve --host 0.0.0.0 --config webpack.config.dev.js",
+        "dev_https": "webpack serve --https --host 0.0.0.0 --config webpack.config.dev.js",
+        "build": "webpack --config webpack.config.prod.js"
+    },
+    "devDependencies": {
+        "clean-webpack-plugin": "^4.0.0",
+        "copy-webpack-plugin": "^10.0.0",
+        "html-webpack-plugin": "^5.5.0",
+        "ts-loader": "^9.2.6",
+        "typescript": "^4.5.2",
+        "webpack": "^5.64.4",
+        "webpack-cli": "^4.9.1",
+        "webpack-dev-server": "^4.6.0"
+    },
+    "dependencies": {
+        "@0xalter/alter-core": "^0.10.0"
+    }
+}
