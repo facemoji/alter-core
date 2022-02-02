@@ -96,15 +96,15 @@ See our example code to see where to put the key. Look for "YOUR-API-KEY-HERE".
 
 ## iOS
 
-To run the example, simply open the attached XCode project and run it on your iPhone or iPad.
+To run the example, simply open the attached Xcode project and run it on your iPhone or iPad.
 
 Do not forget to get your API key at [studio.alter.xyz](https://studio.alter.xyz) and paste it into the code. Look for "YOUR-API-KEY-HERE".
 
 ### SwiftPackage Installation
-Add this repository as a dependency to your `Package.swift` or XCode Project.
+Add this repository as a dependency to your `Package.swift` or Xcode Project.
 
 ### Manual iOS Installation
-Download the [`AlterCore.xcframework`](frameworks/AlterCore.xcframework) from this repository and drag&drop it into your XCode Project.
+Download the [`AlterCore.xcframework`](frameworks/AlterCore.xcframework) from this repository and drag&drop it into your Xcode Project.
 
 
 ## Android
